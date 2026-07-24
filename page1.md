@@ -14,16 +14,15 @@
 
 <img src="./icons8-github-30.png" width="30" /> 깃허브: <https://github.com/usany/ports>
 
-<img src="./icons8-document-30.png" width="30" /> Next.js 기반 서: <https://begin.khusan.co.kr>
+<img src="./icons8-document-30.png" width="30" /> Next.js 기반 문서: <https://begin.khusan.co.kr>
 
-<a target="_blank" href="https://icons8.com/icon/3685/globe">Globe</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+## Icon Attribution
 
-<a target="_blank" href="https://icons8.com/icon/2586/android-os">Android</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/20822/ios-logo">iOS</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/ZgfipSZIUMA3/windows-11">Windows</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/62856/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/59777/document">Document</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+| Icon | Source |
+|------|--------|
+| <a target="_blank" href="https://icons8.com/icon/3685/globe">Globe</a> | <a target="_blank" href="https://icons8.com">Icons8</a> |
+| <a target="_blank" href="https://icons8.com/icon/2586/android-os">Android</a> | <a target="_blank" href="https://icons8.com">Icons8</a> |
+| <a target="_blank" href="https://icons8.com/icon/20822/ios-logo">iOS</a> | <a target="_blank" href="https://icons8.com">Icons8</a> |
+| <a target="_blank" href="https://icons8.com/icon/ZgfipSZIUMA3/windows-11">Windows</a> | <a target="_blank" href="https://icons8.com">Icons8</a> |
+| <a target="_blank" href="https://icons8.com/icon/62856/github">GitHub</a> | <a target="_blank" href="https://icons8.com">Icons8</a> |
+| <a target="_blank" href="https://icons8.com/icon/59777/document">Document</a> | <a target="_blank" href="https://icons8.com">Icons8</a> |
