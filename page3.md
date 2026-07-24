@@ -1,17 +1,17 @@
-# <img src="./cookie.jpg" alt="cookie" width="50" /> KHUKIE(쿠우키) 경희대 캠퍼스 식단 알림
+# <img src="https://github.com/usany/ports/cookie.jpg" alt="cookie" width="50" /> KHUKIE(쿠우키) 경희대 캠퍼스 식단 알림
 
 ## 쿠우키 구조도
 
-<img src="./capturecookie.png" alt="khukie" width="100%" />
+<img src="https://github.com/usany/ports/capturecookie.png" alt="khukie" width="100%" />
 
 ## 서비스 링크
 
 |  | 플랫폼 | 링크 |
 |----------|---------|------|
-| <img src="./icons8-globe-50.png" width="30" alt="web" /> | 웹 | <https://cookie.khusan.co.kr> |
-| <img src="./icons8-android-50.png" width="30" alt="android" /> | 원스토어 | <https://m.onestore.co.kr/v2/ko-kr/app/0001007738> |
-| <img src="./icons8-ios-50.png" width="30" alt="ios" /> | 앱스토어 | <https://apps.apple.com/us/app/id6790189447?l=ko> |
-| <img src="./icons8-github-30.png" width="30" alt="github" /> | 깃허브 | <https://github.com/usany/bob> |
+| <img src="https://github.com/usany/ports/icons8-globe-50.png" width="30" alt="web" /> | 웹 | <https://cookie.khusan.co.kr> |
+| <img src="https://github.com/usany/ports/icons8-android-50.png" width="30" alt="android" /> | 원스토어 | <https://m.onestore.co.kr/v2/ko-kr/app/0001007738> |
+| <img src="https://github.com/usany/ports/icons8-ios-50.png" width="30" alt="ios" /> | 앱스토어 | <https://apps.apple.com/us/app/id6790189447?l=ko> |
+| <img src="https://github.com/usany/ports/icons8-github-30.png" width="30" alt="github" /> | 깃허브 | <https://github.com/usany/bob> |
 
 | 아이콘 | 출처 |
 |------|--------|
