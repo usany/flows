@@ -1,8 +1,8 @@
 # <img src="./cookie.jpg" alt="cookie" width="50" /> KHUKIE(쿠우키) 경희대 캠퍼스 식단 알림
 
-## 쿠우키 구조
+## 쿠우키 구조도
 
-<img src="./structurecookie.png" alt="khukie" width="100%" />
+<img src="./capturecookie.png" alt="khukie" width="100%" />
 
 ## 서비스 링크
 

@@ -1,8 +1,8 @@
 # <img src="./umbrella.jpg" alt="umbrella" width="50" /> KHUSAN(쿠우산) 경희대 캠퍼스 우산 공유 SNS
 
-## 쿠우산 구조
+## 쿠우산 구조도
 
-<img src="./structureumbrella.png" alt="khukie" width="100%" />
+<img src="./captureumbrella.png" alt="khukie" width="100%" />
 
 ## 서비스 링크
 
