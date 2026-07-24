@@ -16,8 +16,6 @@
 
 <img src="./icons8-document-30.png" width="30" /> Next.js 기반 문서: <https://begin.khusan.co.kr>
 
-## Icon Attribution
-
 | Icon | Source |
 |------|--------|
 | <a target="_blank" href="https://icons8.com/icon/3685/globe">Globe</a> | <a target="_blank" href="https://icons8.com">Icons8</a> |
