@@ -1,8 +1,8 @@
-# <img src="./umbrella.jpg" alt="umbrella" width="50" /> KHUSAN(쿠우버스) 경희대 캠퍼스 버스 알림
+# <img src="./bus.jpg" alt="bus" width="50" /> KHUSAN(쿠우버스) 경희대 캠퍼스 버스 알림
 
 ## 쿠우버스 구조
 
-<img src="./structureumbrella.png" alt="khukie" width="100%" />
+<img src="./structurebus.png" alt="khukie" width="100%" />
 
 ## 서비스 링크
 
