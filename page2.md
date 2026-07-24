@@ -2,7 +2,7 @@
 
 ## 쿠우버스 구조
 
-<img src="./structurebus.png" alt="khukie" width="100%" />
+<img src="./structurebus.png" alt="khubus" width="100%" />
 
 ## 서비스 링크
 
