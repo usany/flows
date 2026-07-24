@@ -1,6 +1,6 @@
 # KHUBUS(쿠우버스) 경희대 캠퍼스 버스 알림
-<img src="./umbrella.jpg" alt="umbrella" width="50" />
-<img src="./khukiestructures.png" alt="khukie" width="50" />
+![bus](./bus.png)
+![khukie](./khukiestructures.png)
 
 <img src="./icons8-globe-50.png" width="30" /> 웹: https://khusan.co.kr
 
@@ -27,9 +27,9 @@
 <a target="_blank" href="https://icons8.com/icon/59777/document">Document</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 # KHUBUS(쿠우버스) 경희대 캠퍼스 버스 알림
-<img src="./khukiestructures.png" alt="khukie" width="50" />
+![khukie](./khukiestructures.png)
 # KHUKIE(쿠우키) 경희대 캠퍼스 식단 알림
-<img src="./khukiestructures.png" alt="khukie" width="50" />
+![khukie](./khukiestructures.png)
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
