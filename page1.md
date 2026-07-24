@@ -6,7 +6,7 @@
 
 ## 서비스 링크
 
-|  | 플랫폼 | Link |
+|  | 플랫폼 | 링크 |
 |----------|---------|------|
 | <img src="./icons8-globe-50.png" width="30" alt="web" /> | 웹 | <https://khusan.co.kr> |
 | <img src="./icons8-android-50.png" width="30" alt="android" /> | 원스토어 | <https://m.onestore.co.kr/v2/ko-kr/app/0000776823> |
@@ -14,8 +14,6 @@
 | <img src="./icons8-windows-50.png" width="30" alt="windows" /> | 마이크로소프트 스토어 | <https://apps.microsoft.com/detail/9n7801hsf6vh?hl=ko-KR&gl=US> |
 | <img src="./icons8-github-30.png" width="30" alt="github" /> | 깃허브 | <https://github.com/usany/ports> |
 | <img src="./icons8-document-30.png" width="30" alt="docs" /> | Next.js 기반 문서 | <https://begin.khusan.co.kr> |
-
-## Icon Attribution
 
 | Icon | Source |
 |------|--------|
