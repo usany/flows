@@ -1,7 +1,6 @@
-# KHUBUS(쿠우버스) 경희대 캠퍼스 버스 알림
+# <img src="./umbrella.jpg" alt="umbrella" width="50" /> KHUSAN(쿠우산) 경희대 캠퍼스 우산 공유 SNS
 
-<img src="./umbrella.jpg" alt="umbrella" width="50" />
-<img src="./khukiestructures.png" alt="khukie" width="50" />
+<img src="./khukiestructures.png" alt="khukie" />
 
 <img src="./icons8-globe-50.png" width="30" /> 웹: <https://khusan.co.kr>
 
