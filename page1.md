@@ -2,7 +2,7 @@
 
 * 쿠우산 구조
 
-<img src="./khukiestructures.png" alt="khukie" />
+<img src="./structureumbrella.png" alt="khukie" />
 
 <img src="./icons8-globe-50.png" width="30" /> 웹: <https://khusan.co.kr>
 
