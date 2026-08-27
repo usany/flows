@@ -1,7 +1,7 @@
 # 오디오북 기반 동화책
 
 
-| <img src="https://raw.githubusercontent.com/usany/ports/main/icons8-globe-50.png" width="30" alt="web" /> | 웹 | <https://folk.khusan.co.kr> |
+| <img src="https://raw.githubusercontent.com/usany/flows/main/icons8-globe-50.png" width="30" alt="web" /> | 웹 | <https://folk.khusan.co.kr> |
 
 ## 서비스 설명
 서비스 설명
