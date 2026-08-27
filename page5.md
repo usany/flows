@@ -9,3 +9,4 @@
 |  | 플랫폼 | 링크 |
 |----------|---------|------|
 | <img src="https://raw.githubusercontent.com/usany/flows/main/icons8-globe-50.png" width="30" alt="web" /> | 웹 | <https://news.khusan.co.kr> |
+| <img src="https://raw.githubusercontent.com/usany/flows/main/icons8-github-30.png" width="30" alt="github" /> | 깃허브 | <https://github.com/usany/casts> |

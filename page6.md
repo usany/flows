@@ -3,6 +3,7 @@
 |  | 플랫폼 | 링크 |
 |----------|---------|------|
 | <img src="https://raw.githubusercontent.com/usany/flows/main/icons8-globe-50.png" width="30" alt="web" /> | 웹 | <https://folk.khusan.co.kr> |
+| <img src="https://raw.githubusercontent.com/usany/flows/main/icons8-github-30.png" width="30" alt="github" /> | 깃허브 | <https://github.com/usany/fairy> |
 
 ## 서비스 설명
 사람의 글, 인공지능의 그림과 음성으로 만든 토끼가 들려주는 토끼와 거북이 동화
