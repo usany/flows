@@ -2,7 +2,7 @@
 
 ## 서비스 구조도
 
-<img src="https://raw.githubusercontent.com/usany/flows/main/soil.png" alt="khukie" width="100%" />
+<img src="https://raw.githubusercontent.com/usany/flows/main/soil.png" alt="khukie" width="90%" />
 
 ## 서비스 링크
 
